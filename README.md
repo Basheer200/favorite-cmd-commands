@@ -12,7 +12,7 @@ This command intialize your local folder or project and make it as repository wh
 
 enable you to give a comment about the changes you did and make them ready to be pushed
 
-# git git push :
+# git  push :
 
 pushing the changes we did localy to your remote repository
 
