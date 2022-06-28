@@ -16,7 +16,7 @@ enable you to give a comment about the changes you did and make them ready to be
 
 pushing the changes we did localy to your remote repository
 
-# git git pull :
+# git  pull :
 
 pulling the changes we did remotely on github for instance to local
 
